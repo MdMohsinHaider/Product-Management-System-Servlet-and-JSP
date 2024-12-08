@@ -13,6 +13,6 @@
 
   <servlet-mapping>
     <servlet-name>register</servlet-name>
-    <url-pattern>/userRegister</url-pattern>
+    <url-pattern>/InsertProductServlet</url-pattern>
   </servlet-mapping>
 </web-app>
